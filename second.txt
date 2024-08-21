@@ -5,4 +5,4 @@ I added a line at the beginning.
 Here is my second file.
 Ehh I like the first file first, but this is okay too.
 
-I added a line at the end
+I added a line at the end.
